@@ -106,9 +106,10 @@
 ![百度图像技术](https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
 
 * 腾讯云AI
-![腾讯云图像技术]![百度图像技术](https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
+![腾讯云图像技术]!(https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
 
 * 阿里云AI
+
 阿里云AI图像技术方面暂时不能满足生物图鉴APP的使用需求。
 ![阿里云图像技术](https://images.gitee.com/uploads/images/2019/1211/010950_62cc666f_1831462.png "阿里云.png")
 
