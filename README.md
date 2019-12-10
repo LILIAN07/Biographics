@@ -101,6 +101,24 @@
 
 ### 使用比较分析
 ---
+**种类对比**
+* 百度AI
+![百度图像技术](https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
+
+* 腾讯云AI
+![腾讯云图像技术]![百度图像技术](https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
+
+* 阿里云AI
+阿里云AI图像技术方面暂时不能满足生物图鉴APP的使用需求。
+![阿里云图像技术](https://images.gitee.com/uploads/images/2019/1211/010950_62cc666f_1831462.png "阿里云.png")
+
+**价格对比**
+* 百度AI
+![百度动物识别价格](https://images.gitee.com/uploads/images/2019/1211/011115_eed6ad8d_1831462.jpeg "百度动物识别.jpg")
+![百度植物识别价格](https://images.gitee.com/uploads/images/2019/1211/011143_d951cfd1_1831462.jpeg "百度植物识别.jpg")
+
+* 腾讯云AI
+![腾讯云识别价格](https://images.gitee.com/uploads/images/2019/1211/011206_42cf8c96_1831462.png "腾讯云价格.png")
 
 ### 使用后风险报告
 ---
