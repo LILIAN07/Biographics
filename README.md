@@ -106,7 +106,7 @@
 ![百度图像技术](https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
 
 * 腾讯云AI
-![腾讯云图像技术]!(https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
+![腾讯云图像技术](https://images.gitee.com/uploads/images/2019/1211/010747_7bd4fea3_1831462.jpeg "百度图像技术.jpg")
 
 * 阿里云AI
 
@@ -115,20 +115,25 @@
 
 **价格对比**
 * 百度AI
+
 ![百度动物识别价格](https://images.gitee.com/uploads/images/2019/1211/011115_eed6ad8d_1831462.jpeg "百度动物识别.jpg")
 ![百度植物识别价格](https://images.gitee.com/uploads/images/2019/1211/011143_d951cfd1_1831462.jpeg "百度植物识别.jpg")
 
 * 腾讯云AI
+
 ![腾讯云识别价格](https://images.gitee.com/uploads/images/2019/1211/011206_42cf8c96_1831462.png "腾讯云价格.png")
 
 **对比结果**
 * 价格
+
 百度AI平台是国内几个平台中最便宜的，而且每日享有500次免费调用额度，识别失败不扣费。
 
 * 种类
+
 百度AI平台图像技术类发展较为成熟，种类更多，专业性更强。相比于其他AI平台没有或者笼统的图像识别，百度AI平台细分出了动物、植物智能识别API，能在APP中有更好的表现力。
 
 * 总结
+
 综上所述，在生物图鉴APP里，将采用百度动物智能识别API以及百度植物智能识别API.
 
 ### 使用后风险报告
