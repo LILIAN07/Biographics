@@ -37,6 +37,23 @@
 | 智能动物识别 | 帮助用户了解上传照片中的动物品类的基本信息 | 非常重要 |
 | 调用地图API生成中国生物地图 | 生成用户个人的“生物图鉴”，记录用户收录的生物地域信息 | 次重要 |
 
+## 原型
+### 基本信息
+* [原型查看](http://nfunm043.gitee.io/shengwu)
+* [原型下载](http://gitee.com/NFUNM043/shengwu)
+
+### 原型展示
+![拍照](https://images.gitee.com/uploads/images/2019/1225/005650_0569f7f5_1831462.png "拍照.png")
+![识别成功](https://images.gitee.com/uploads/images/2019/1225/005704_795c5157_1831462.png "成功.png")
+![生物档案](https://images.gitee.com/uploads/images/2019/1225/005717_37e5b030_1831462.png "档案.png")
+![识别失败](https://images.gitee.com/uploads/images/2019/1225/005729_68b02e25_1831462.png "失败.png")
+![反馈](https://images.gitee.com/uploads/images/2019/1225/005741_0f03bb38_1831462.png "反馈.png")
+![生物圈](https://images.gitee.com/uploads/images/2019/1225/005756_53a1fe96_1831462.png "生物圈.png")
+![交换](https://images.gitee.com/uploads/images/2019/1225/005804_7f16c1e7_1831462.png "交换.png")
+![我的](https://images.gitee.com/uploads/images/2019/1225/005821_abed3898_1831462.png "我的.png")
+![生物地图](https://images.gitee.com/uploads/images/2019/1225/005831_e310f14b_1831462.png "地图.png")
+![收集名录](https://images.gitee.com/uploads/images/2019/1225/005844_1a45829b_1831462.png "名录.png")
+
 ## API产品使用
 ### 使用水平
 ---
