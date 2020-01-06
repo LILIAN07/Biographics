@@ -49,6 +49,12 @@
 * [原型查看](http://nfunm043.gitee.io/shengwu)
 * [原型下载](http://gitee.com/NFUNM043/shengwu)
 
+### 产品框架图
+[框架图](http://nfunm043.gitee.io/b-lct/#g=1&p=%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%9B%BE)
+
+### 产品原型图
+[流程图](http://nfunm043.gitee.io/b-lct/#g=1&p=%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD%E6%B5%81%E7%A8%8B%E5%9B%BE)
+
 ### 交互及界面设计
 在拍照识别生物的界面，当用户拍照上传生物图片，后台即会开始利用智能动物、植物识别API进行识别，识别成功即会跳转生物档案界面，识别失败则为用户提供生物的颜色、体型标签，及相似生物图片进行筛选识别。
 
